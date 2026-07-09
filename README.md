@@ -107,9 +107,3 @@ financial-vue/
 | `/indicators` | 财务指标 | 12条 |
 | `/watchlist` | 自选股 | 3条 |
 | `/sectors` | 行业板块 | 7个 |
-
-详见 [API.md](./API.md)
-
-## 学习要点
-
-详见 [ASSESSMENT.md](./ASSESSMENT.md)
