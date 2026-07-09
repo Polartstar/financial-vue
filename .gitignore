@@ -1,0 +1,25 @@
+node_modules/
+dist/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# 日志
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 向量数据库（运行生成）
+**/chroma_db/
